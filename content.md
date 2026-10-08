@@ -1,18 +1,20 @@
-# VIDDO – website text (edit me)
+# VIDDO – website text 
 
 This file contains **all the text shown on the website**. You can rewrite it freely.
 
 ### How to edit (on GitHub)
+
 1. Click the **pencil** ✏️ icon in the top-right of this file.
 2. Change only the ordinary text lines.
 3. Scroll down and click the green **"Commit changes"** button.
 
 ### Rules
-- **Do not change or delete the lines that start with `#` or `---`.** They are labels that tell us where each text belongs. Only edit the normal lines underneath them.
-- Keep the blank lines between blocks.
-- `**Bold text**` for bold text.
 
----
+* **Do not change or delete the lines that start with `#` or `---`.**  
+* Keep the blank lines between blocks.
+* `\*\*Bold text\*\*` for bold text.
+
+\---
 
 ## Browser tab title
 
@@ -20,21 +22,21 @@ VIDDO – Wireframe
 
 ## Menu
 
-- Start
-- Så fungerar det
-- Tjänster
-- Företaget
-- Om oss
-- Kontakta oss
+* Start
+* Så fungerar det
+* Tjänster
+* Företaget
+* Om oss
+* Kontakta oss
 
----
+\---
 
-# 1. Start
+# 1\. Start
 
 Start
 
-En kontakt, en hämtning.
-Vi tar hand om resten.
+En kontakt, en hämtning. 
+Vi tar hand om resten. Helt utan kostnad.
 
 Ska du flytta, tömma ett dödsbo, rensa ett förråd eller bara bli av med saker du inte längre behöver?
 
@@ -46,11 +48,11 @@ Boka en kostnadsfri bedömning
 
 Skicka bilder för värdering
 
----
+\---
 
-# 2. Intro
+# 2\. Intro
 
-Du behöver inte sortera. Vi tar allt.
+Du behöver inte sortera. Vi tar allt. Helt utan kostnad.
 
 Designmöbler, elektronik och porslin kan stå bredvid trasiga stolar, gamla pärmar och kartonger.
 
@@ -68,9 +70,9 @@ Det som kan återvinnas sorteras.
 
 Endast det som verkligen är avfall kasseras.
 
----
+\---
 
-# 3. Så fungerar det
+# 3\. Så fungerar det
 
 Så fungerar det
 
@@ -86,7 +88,7 @@ Du blir av med allt utan att betala någonting för hämtningen.
 
 Vid behov så grovstädar vi lokalen efter hämtning.
 
-Du får del av försäljningen
+Vi hämtar utan kostnad och du får del av försäljningen
 
 Finns det föremål med ett större ekonomiskt värde kan vi komma överens om att sälja dem åt dig.
 
@@ -120,9 +122,9 @@ Efter hämtningen sköter vi sortering, värdering, restaurering, försäljning,
 
 En kontakt. En hämtning. En helhetslösning.
 
----
+\---
 
-# 4. Tjänster
+# 4\. Tjänster
 
 Tjänster
 
@@ -152,9 +154,9 @@ Fastigheter och lokaler
 
 Vi hjälper fastighetsägare, mäklare, begravningsbyråer och andra verksamheter som behöver en trygg partner för återkommande tömningar och återbruk.
 
----
+\---
 
-# 5. Företaget
+# 5\. Företaget
 
 Företaget
 
@@ -210,9 +212,9 @@ Vi söker även långsiktiga samarbeten med bland annat fastighetsägare, mäkla
 
 Kontakta oss om företagssamarbete
 
----
+\---
 
-# 6. Om oss
+# 6\. Om oss
 
 Om oss
 
@@ -224,13 +226,13 @@ Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
 
 Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
 
-- Pelle, VD
+* Pelle, VD
 
 Pelle, grundare av VIDDO
 
----
+\---
 
-# 7. Kontakta oss
+# 7\. Kontakta oss
 
 Kontakta oss
 
@@ -240,23 +242,23 @@ Berätta i formuläret nedan vad du vill bli av med. Vill du visa vad det är? [
 
 Vi hjälper dig med resten.
 
-Namn *
+Namn \*
 
-E-post *
+E-post \*
 
 Telefon (valfritt)
 
-Meddelande *
+Meddelande \*
 
-Berätta vad du vill bli av med. Vi kommer kontakta dig så snart som möjgligt.
+Berätta vad du vill bli av med. Vi kommer kontakta dig så snart som möjligt.
 
 Skicka förfrågan
 
 Dina uppgifter används endast för att besvara din förfrågan.
 
----
+\---
 
-# 9. Mobile button + pop-up
+# 9\. Mobile button + pop-up
 
 Boka en kostnadsfri bedömning
 
@@ -264,12 +266,5 @@ Boka en kostnadsfri bedömning
 
 Berätta i formuläret nedan vad du vill bli av med, så återkommer vi med en bedömning.
 
----
 
-# 10. Form messages
 
-Skickar...
-
-Tack! Ditt meddelande är skickat – vi hör av oss snart.
-
-Något gick fel. Försök igen eller mejla oss direkt.
