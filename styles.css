@@ -88,14 +88,6 @@ p.lead {
   font-weight: 600;
 }
 
-.kicker {
-  font-size: 12px;
-  letter-spacing: 0.14em;
-  text-transform: uppercase;
-  color: var(--primary-deep);
-  margin-bottom: 4px;
-}
-
 .tagline {
   font-size: 19px;
   font-weight: 700;

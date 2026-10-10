@@ -220,13 +220,13 @@ Om oss
 
 Om VIDDO
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+VIDDO föddes ur ett intresse för design och ur det en frustration kring hur mycket fullt fungerande saker som slängs varje dag.
 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+I sökande på andrahandsmarknaden såg vi samma problem om och om igen: människor har saker med ett värde men saknar tiden, kunskapen, transportmöjlighet eller viljan att själva ta hand om försäljningen. Samtidigt som vi vet att andra människor söker efter just dessa produkter.
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+Vi vill därför kombinera kunskap om design samt andrahandsmarknaden med hämtning, logistik och återbruk för att skapa en tjänst som motverkar överkonsumtion samtidigt som vi vill tillgängliggöra kvalitativa designprodukter för alla.
 
-* Pelle, VD
+* Pelle, grundare av VIDDO
 
 Pelle, grundare av VIDDO
 
